@@ -1,14 +1,3 @@
-
-{***********************************************************}
-{                                                           }
-{                     XML Data Binding                      }
-{                                                           }
-{         Generated on: 27/10/2022 09:09:10                 }
-{       Generated from: C:\bvx\Vendas Processadas\xml.xml   }
-{   Settings stored in: C:\bvx\Vendas Processadas\xml.xdb   }
-{                                                           }
-{***********************************************************}
-
 unit xml;
 
 interface
